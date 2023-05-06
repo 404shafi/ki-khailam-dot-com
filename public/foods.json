@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "category": "Vegetables",
+    "name": "Alu"
+  },
+  {
+    "id": "2",
+    "category": "Vegetables",
+    "name": "Begun"
+  },
+  {
+    "id": "3",
+    "category": "Vegetables",
+    "name": "Lau"
+  },
+  {
+    "id": "4",
+    "category": "Vegetables",
+    "name": "Misti Kumra"
+  },
+  {
+    "id": "5",
+    "category": "Vegetables",
+    "name": "Korola"
+  },
+  {
+    "id": "6",
+    "category": "Vegetables",
+    "name": "Potol"
+  },
+  {
+    "id": "7",
+    "category": "Fish",
+    "name": "Rui"
+  },
+  {
+    "id": "8",
+    "category": "Fish",
+    "name": "Katol"
+  },
+  {
+    "id": "9",
+    "category": "Fish",
+    "name": "Telapia"
+  },
+  {
+    "id": "10",
+    "category": "Fish",
+    "name": "Elish"
+  },
+  {
+    "id": "11",
+    "category": "Fish",
+    "name": "Boal"
+  },
+  {
+    "id": "12",
+    "category": "Fruits",
+    "name": "Apple"
+  },
+  {
+    "id": "13",
+    "category": "Fruits",
+    "name": "Banana"
+  },
+  {
+    "id": "14",
+    "category": "Fruits",
+    "name": "Mango"
+  },
+  {
+    "id": "15",
+    "category": "Fruits",
+    "name": "Lichu"
+  },
+  {
+    "id": "16",
+    "category": "Fruits",
+    "name": "Jack Fruit"
+  },
+  {
+    "id": "17",
+    "category": "Meat",
+    "name": "Beef"
+  },
+  {
+    "id": "18",
+    "category": "Meat",
+    "name": "Chicken"
+  },
+  {
+    "id": "19",
+    "category": "Meat",
+    "name": "Mutton"
+  },
+  {
+    "id": "20",
+    "category": "Snacks",
+    "name": "Bread"
+  },
+  {
+    "id": "21",
+    "category": "Snacks",
+    "name": "Biscuit"
+  },
+  {
+    "id": "22",
+    "category": "Snacks",
+    "name": "Cake"
+  }
+]
